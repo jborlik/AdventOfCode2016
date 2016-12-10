@@ -11,3 +11,10 @@ All code is in Python (tested on 3.5.2).
     This (part2) segment intersection could probably be made much simpler, to take advantage
     of the 90-degree turns (half of the segments to check are always going to be parallel).
 
+* Day 2 - Follow up/right/down/left instructions.  Set up a state transition table to handle
+    the boundaries.
+
+* Day 3 - Parsing three numbers and checking if they make a triangle.  Part one had the values
+    in a row, and this was quick and elegant to parse.  Part two had the values in columns,
+    and that was uglier.
+
