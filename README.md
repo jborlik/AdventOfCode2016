@@ -18,3 +18,7 @@ All code is in Python (tested on 3.5.2).
     in a row, and this was quick and elegant to parse.  Part two had the values in columns,
     and that was uglier.
 
+* Day 4 - Collections.Counter for character counting and custom dictionary sorting, with 
+    regex parsing
+
+
