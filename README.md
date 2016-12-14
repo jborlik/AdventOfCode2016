@@ -22,3 +22,7 @@ All code is in Python (tested on 3.5.2).
     regex parsing
 
 * Day 5 - Looking for starting digits in an MD5 hash.  
+
+* Day 6 - More string character counting, and custom dict sorting.
+
+* Day 7 - 
