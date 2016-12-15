@@ -25,4 +25,4 @@ All code is in Python (tested on 3.5.2).
 
 * Day 6 - More string character counting, and custom dict sorting.
 
-* Day 7 - 
+* Day 7 - Big ugly regex's for part two
