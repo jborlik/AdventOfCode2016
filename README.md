@@ -30,3 +30,6 @@ All code is in Python (tested on 3.5.2).
 * Day 8 - Use numpy matrix manipulation (np.roll) and matplotlib imshow to display the results
 
 * Day 9 - Completed part one... need to work on part two
+
+* Day 10 - Used a little class to store bot values and exit-condition instructions
+
