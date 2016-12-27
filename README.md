@@ -37,3 +37,4 @@ All code is in Python (tested on 3.5.2).
 
 * Day 12 - "Machine language" like instruction set
 
+* Day 13 - Used a graph representation and Dijkstra's method for finding the shortest path.
