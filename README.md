@@ -40,3 +40,5 @@ All code is in Python (tested on 3.5.2).
 * Day 13 - Used a graph representation and Dijkstra's method for finding the shortest path.
 
 * Day 14 - More MD5 hashing.  Used a deque to limit memory.
+
+* Day 15 - Modulus operators
