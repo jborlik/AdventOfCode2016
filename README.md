@@ -33,3 +33,7 @@ All code is in Python (tested on 3.5.2).
 
 * Day 10 - Used a little class to store bot values and exit-condition instructions
 
+* Day 11 - Skipping :(
+
+* Day 12 - "Machine language" like instruction set
+
