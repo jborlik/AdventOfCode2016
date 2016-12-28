@@ -42,3 +42,7 @@ All code is in Python (tested on 3.5.2).
 * Day 14 - More MD5 hashing.  Used a deque to limit memory.
 
 * Day 15 - Modulus operators
+
+* Day 16 - Generate "binary" string and checksum (using a list comprehension to divide into groups of two).
+           Part two really consumes memory and CPU, but it completed in a couple of minutes on my laptop.
+ 
