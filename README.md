@@ -46,3 +46,6 @@ All code is in Python (tested on 3.5.2).
 * Day 16 - Generate "binary" string and checksum (using a list comprehension to divide into groups of two).
            Part two really consumes memory and CPU, but it completed in a couple of minutes on my laptop.
  
+* Day 17 - Full tree path searching, using a deque and a class to store state
+
+
