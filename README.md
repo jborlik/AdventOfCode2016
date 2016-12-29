@@ -48,4 +48,7 @@ All code is in Python (tested on 3.5.2).
  
 * Day 17 - Full tree path searching, using a deque and a class to store state
 
+* Day 18 - Evolving a string according to a couple of rules, meh
+
+
 
