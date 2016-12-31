@@ -48,7 +48,17 @@ All code is in Python (tested on 3.5.2).
  
 * Day 17 - Full tree path searching, using a deque and a class to store state
 
-* Day 18 - Evolving a string according to a couple of rules, meh
+* Day 18 - Evolving a string according to a couple of rules
+
+* Day 19 - Elf elimination game.  Completed Part 1, not finished with Part 2 (current implementation
+            is too computationally intensive)
+
+* Day 20 - Looking for valid "IP" values with a blacklist.  A key part was to sort the blacklist
+            entries.  Part 1 was easy, but my approach didn't scale to Part 2.  Part 2 was
+            solved by walking through the blacklist itself rather than iterating through the
+            32-bit integer space.
+
+
 
 
 
