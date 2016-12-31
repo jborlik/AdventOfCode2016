@@ -58,6 +58,11 @@ All code is in Python (tested on 3.5.2).
             solved by walking through the blacklist itself rather than iterating through the
             32-bit integer space.
 
+* Day 21 - Follow the instruction set to transform a string.  Part 1 complete.  Part 2
+            involves reversing the transformation.  My implementation doesn't seem to
+            work, unfortunately, and it is probably due to the "rotate based on" start-dependent
+            value.
+
 
 
 
